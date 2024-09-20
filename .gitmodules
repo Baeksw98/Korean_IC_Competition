@@ -1,9 +1,9 @@
 [submodule "Intern-VL2-fine-tuning"]
 	path = Intern-VL2-fine-tuning
-	url = https://github.com/sionic-ai/Intern-VL2-fine-tuning.git
+	url = https://github.com/Baeksw98/Intern-VL2-fine-tuning.git
 [submodule "Qwen-VL-fine-tuning"]
 	path = Qwen-VL-fine-tuning
-	url = https://github.com/sionic-ai/Qwen-VL-fine-tuning.git
+	url = https://github.com/Baeksw98/Qwen-VL-fine-tuning.git
 [submodule "KoGPT-VIT-fine-tuning"]
 	path = KoGPT-VIT-fine-tuning
-	url = https://github.com/sionic-ai/KoGPT-VIT-fine-tuning.git
+	url = https://github.com/Baeksw98/KoGPT-VIT-fine-tuning.git
